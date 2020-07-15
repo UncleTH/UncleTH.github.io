@@ -78,7 +78,3 @@ LOFFER只是容器，你的posts才是博客的核心。
 介绍更多人来使用它，摆脱lofter自由飞翔！
 
 欢迎Issues和Pull Requests。
-
-给我点一个☆吧！
-
-![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
